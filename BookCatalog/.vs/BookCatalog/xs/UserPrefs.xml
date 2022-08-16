@@ -1,4 +1,42 @@
 ﻿<Properties StartupConfiguration="{5721CCF9-32CA-4CF3-93C4-C1E459BC4E5D}|Default">
-  <MonoDevelop.Ide.ItemProperties.BookCatalog FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/BookCatalogContextModelSnapshot.cs">
+    <Files>
+      <File FileName="Models/Book.cs" Line="2" Column="45" />
+      <File FileName="Pages/Books/Create.cshtml" Line="5" Column="32" />
+      <File FileName="Pages/Books/Create.cshtml.cs" Line="34" Column="35" />
+      <File FileName="Pages/Index.cshtml" Line="4" Column="37" />
+      <File FileName="Migrations/20220816005824_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="Migrations/BookCatalogContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookCatalog" expanded="True">
+            <Node name="BookCatalog" expanded="True">
+              <Node name="Migrations" expanded="True">
+                <Node name="BookCatalogContextModelSnapshot.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Books" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BookCatalog PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
