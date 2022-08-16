@@ -1,12 +1,7 @@
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using BookCatalog.Data;
-var builder = WebApplication.CreateBuilder(args);
+﻿var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddDbContext<BookCatalogContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("BookCatalogContext") ?? throw new InvalidOperationException("Connection string 'BookCatalogContext' not found.")));
 
 var app = builder.Build();
 
