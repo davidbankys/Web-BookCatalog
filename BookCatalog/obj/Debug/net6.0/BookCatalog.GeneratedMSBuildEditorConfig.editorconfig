@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/davidbankys/Documents/GitHub/Catalogue/Web-BookCatalog/BookCatalog
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/davidbankys/Documents/GitHub/Catalogue/Web-BookCatalog/BookCatalog/Pages/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/davidbankys/Documents/GitHub/Catalogue/Web-BookCatalog/BookCatalog/Pages/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/davidbankys/Documents/GitHub/Catalogue/Web-BookCatalog/BookCatalog/Pages/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/davidbankys/Documents/GitHub/Catalogue/Web-BookCatalog/BookCatalog/Pages/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/davidbankys/Documents/GitHub/Catalogue/Web-BookCatalog/BookCatalog/Pages/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/davidbankys/Documents/GitHub/Catalogue/Web-BookCatalog/BookCatalog/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
